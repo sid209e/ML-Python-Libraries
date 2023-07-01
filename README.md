@@ -39,7 +39,8 @@ pip install numpy pandas matplotlib seaborn
 
 We recommend using a virtual environment to manage your Python dependencies and ensure a clean and isolated environment for running these notebooks.
 
-Contributing
+## Contributing
+
 Contributions to this repository are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions can help make this resource even more valuable for the community.
 
 
